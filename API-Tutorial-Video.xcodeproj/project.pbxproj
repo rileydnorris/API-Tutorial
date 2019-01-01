@@ -97,12 +97,10 @@
 		F658979821D8A3650093122F /* API-Tutorial-Video */ = {
 			isa = PBXGroup;
 			children = (
-				F658979921D8A3650093122F /* AppDelegate.swift */,
+				F65897A521D8A3660093122F /* Info.plist */,
+				F65897C721D8A3700093122F /* Etc */,
 				F658979B21D8A3650093122F /* ViewController.swift */,
 				F658979D21D8A3650093122F /* Main.storyboard */,
-				F65897A021D8A3660093122F /* Assets.xcassets */,
-				F65897A221D8A3660093122F /* LaunchScreen.storyboard */,
-				F65897A521D8A3660093122F /* Info.plist */,
 			);
 			path = "API-Tutorial-Video";
 			sourceTree = "<group>";
@@ -123,6 +121,16 @@
 				F65897BB21D8A3660093122F /* Info.plist */,
 			);
 			path = "API-Tutorial-VideoUITests";
+			sourceTree = "<group>";
+		};
+		F65897C721D8A3700093122F /* Etc */ = {
+			isa = PBXGroup;
+			children = (
+				F658979921D8A3650093122F /* AppDelegate.swift */,
+				F65897A021D8A3660093122F /* Assets.xcassets */,
+				F65897A221D8A3660093122F /* LaunchScreen.storyboard */,
+			);
+			path = Etc;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
